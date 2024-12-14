@@ -1,0 +1,15 @@
+>>>>>>>>>>>>>>>>>>>>>>> ADDRESS BOOK <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+-------------------------------------------------------------------
+No.   Name                 Number          Email                         
+-------------------------------------------------------------------
+1     Bob Charlie          9876543210      bob@example.com               
+2     Prapn                6567657654      gre@gmail.com                 
+3     David Eve            5559876543      david@example.com             
+4     Eve Fr               7686544321      eve@example.com               
+5     Frank Grace          7771234567      frank@example.com             
+6     Grace Hannah         8881234567      Grace12@gmail.com             
+7     Hannah Isaac         9991234567      hannah@example.com            
+8     Prap                 9791319762      rprap@gmail.com               
+9     Eddy taan            9859856547      eddy12@yahoo.com              
+10    Maharaj              8754859621      tr@gmail.com                  
+-------------------------------------------------------------------
